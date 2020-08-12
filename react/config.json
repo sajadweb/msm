@@ -1,0 +1,8 @@
+{
+    "services":[
+        {
+            "name": "user",
+            "uri": "https://github.com/sajadweb/msm/blob/master/react/user.zip"
+        }
+    ]
+}
