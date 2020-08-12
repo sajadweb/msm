@@ -2,7 +2,7 @@
     "services":[
         {
             "name": "user",
-            "uri": "https://github.com/sajadweb/msm/raw/master/react/user.zip"
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/react/user.zip"
         }
     ]
 }
