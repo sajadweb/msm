@@ -2,7 +2,7 @@
     "services":[
         {
             "name": "user",
-            "uri": "https://github.com/sajadweb/msm/blob/master/laravel/user.zip"
+            "uri": "https://github.com/sajadweb/msm/raw/master/laravel/user.zip"
         }
     ]
 }
