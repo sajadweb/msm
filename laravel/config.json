@@ -1,8 +1,28 @@
 {
     "services":[
         {
-            "name": "user",
-            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/user.zip"
+            "name": "Attachment",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/Attachment.zip"
+        },
+        {
+            "name": "Email",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/Email.zip"
+        },
+        {
+            "name": "Setting",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/Setting.zip"
+        },
+        {
+            "name": "Support",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/Support.zip"
+        },
+        {
+            "name": "User",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/User.zip"
+        },
+        {
+            "name": "Visit",
+            "uri": "https://raw.githubusercontent.com/sajadweb/msm/master/laravel/Visit.zip"
         }
     ]
 }
